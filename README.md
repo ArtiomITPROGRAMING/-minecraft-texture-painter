@@ -1,5 +1,8 @@
 # 🎨 Minecraft Block Texture Painter
 
+[![Planet Minecraft](https://img.shields.io/badge/Planet%20Minecraft-Published-green)]
+(https://www.planetminecraft.com/blog/minecraft-block-texture-painter-python-tool/)
+
 Полноценный редактор текстур для Minecraft Java Edition на Python.
 Рисуйте текстуры сразу на все 6 граней блока с 3D-превью.
 
