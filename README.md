@@ -12,7 +12,8 @@
 
 ## 📸 Скриншот
 
-![Screenshot](screenshot.png)
+![Screenshot](<img width="1919" height="1199" alt="Снимок экрана 2026-02-14 120942" src="https://github.com/user-attachments/assets/b6f1c6eb-29a7-4f2b-9822-01d0040ed0ca" />
+)
 
 ## ✨ Возможности
 
